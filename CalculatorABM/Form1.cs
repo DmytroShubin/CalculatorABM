@@ -22,7 +22,7 @@ namespace CalculatorABM
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            textBox1.Text = "0";
+            textBox1.Text = " ";
         }
 
         private void button17_Click(object sender, EventArgs e)
