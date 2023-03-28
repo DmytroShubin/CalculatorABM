@@ -19,17 +19,12 @@ namespace CalculatorABM
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            textBox1.Text = "0";
+
         }
 
         private void button17_Click(object sender, EventArgs e)
         {
             textBox1.Text = "0";
-        }
-        private void button_Click(object sender, EventArgs e)
-        {
-            Button button = (Button)sender;
-            textBox1.Text =button.Text+textBox1.Text;
         }
     }
 }

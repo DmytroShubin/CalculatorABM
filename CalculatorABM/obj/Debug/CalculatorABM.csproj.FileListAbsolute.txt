@@ -31,3 +31,14 @@ C:\Users\21dim\Desktop\CalculatorABM\CalculatorABM\obj\Debug\CalculatorABM.cspro
 C:\Users\21dim\Desktop\CalculatorABM\CalculatorABM\obj\Debug\CalculatorABM.csproj.CoreCompileInputs.cache
 C:\Users\21dim\Desktop\CalculatorABM\CalculatorABM\obj\Debug\CalculatorABM.exe
 C:\Users\21dim\Desktop\CalculatorABM\CalculatorABM\obj\Debug\CalculatorABM.pdb
+C:\Users\mjpin\OneDrive\Desktop\Git repos\ABM group\CalculatorABM\bin\Debug\CalculatorABM.exe.config
+C:\Users\mjpin\OneDrive\Desktop\Git repos\ABM group\CalculatorABM\bin\Debug\CalculatorABM.exe
+C:\Users\mjpin\OneDrive\Desktop\Git repos\ABM group\CalculatorABM\bin\Debug\CalculatorABM.pdb
+C:\Users\mjpin\OneDrive\Desktop\Git repos\ABM group\CalculatorABM\obj\Debug\CalculatorABM.csproj.AssemblyReference.cache
+C:\Users\mjpin\OneDrive\Desktop\Git repos\ABM group\CalculatorABM\obj\Debug\CalculatorABM.csproj.SuggestedBindingRedirects.cache
+C:\Users\mjpin\OneDrive\Desktop\Git repos\ABM group\CalculatorABM\obj\Debug\CalculatorABM.Form1.resources
+C:\Users\mjpin\OneDrive\Desktop\Git repos\ABM group\CalculatorABM\obj\Debug\CalculatorABM.Properties.Resources.resources
+C:\Users\mjpin\OneDrive\Desktop\Git repos\ABM group\CalculatorABM\obj\Debug\CalculatorABM.csproj.GenerateResource.cache
+C:\Users\mjpin\OneDrive\Desktop\Git repos\ABM group\CalculatorABM\obj\Debug\CalculatorABM.csproj.CoreCompileInputs.cache
+C:\Users\mjpin\OneDrive\Desktop\Git repos\ABM group\CalculatorABM\obj\Debug\CalculatorABM.exe
+C:\Users\mjpin\OneDrive\Desktop\Git repos\ABM group\CalculatorABM\obj\Debug\CalculatorABM.pdb
